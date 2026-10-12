@@ -1,8 +1,7 @@
 # 🐶 Waggle - 개발자 협업 팀원 모집 플랫폼
 
 > 서비스 URL: https://waggle.lol  
-> 본 저장소는 팀 프로젝트 [Waggle Org Repo 링크]에서 남민기(Frontend)의 개인 기여와 기술적 문제 해결 과정을 정리한 Fork 저장소입니다.
-
+> 본 저장소는 개발자 협업 팀원 모집 플랫폼 [Waggle 팀 원본 레포지토리](https://github.com/Team-Waggle/frontend-v2)를 Fork하여, 프론트엔드 개발자인 본인이 담당한 핵심 아키텍처, SEO 개선(Lambda@Edge), 그리고 기술적 트러블슈팅 과정을 상세히 기록하기 위한 포트폴리오 및 기술 정리용 저장소입니다.
 ---
 
 ## 📌 1. 프로젝트 소개
